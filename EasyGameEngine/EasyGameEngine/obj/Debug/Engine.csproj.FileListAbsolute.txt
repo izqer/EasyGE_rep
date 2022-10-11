@@ -1,0 +1,17 @@
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\EasyGameEngine.exe.config
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\EasyGameEngine.exe
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\EasyGameEngine.pdb
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\Tao.FreeGlut.dll
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\Tao.OpenGl.dll
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\Tao.FreeGlut.xml
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\Tao.OpenGl.xml
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\obj\Debug\EasyGameEngine.main.resources
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\obj\Debug\EasyGameEngine.Properties.Resources.resources
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\obj\Debug\Engine.csproj.GenerateResource.cache
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\obj\Debug\Engine.csproj.CopyComplete
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\obj\Debug\EasyGameEngine.exe
+C:\Users\IZQ107\Desktop\Game\EasyGameEngine\EasyGameEngine\obj\Debug\EasyGameEngine.pdb
